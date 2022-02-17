@@ -830,9 +830,16 @@ h4 {
     -webkit-text-fill-color: transparent;
   }
 
-  .image-8 {
+  /* .image-8 {
     display: none;
   }
+
+
+  @media(max-width: 479px) {
+    .div-block-2 {
+      background-image: url('../images/Group-1260a-p-500.png');
+    }
+  } */
 
   .div-block-2 {
     display: block;
