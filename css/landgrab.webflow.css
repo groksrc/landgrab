@@ -540,10 +540,6 @@ h4 {
   margin-left: auto;
 }
 
-.div-block-2 {
-  display: none;
-}
-
 .div-block-3 {
   display: none;
   width: 300px;
@@ -828,27 +824,6 @@ h4 {
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-  }
-
-  /* .image-8 {
-    display: none;
-  }
-
-
-  @media(max-width: 479px) {
-    .div-block-2 {
-      background-image: url('../images/Group-1260a-p-500.png');
-    }
-  } */
-
-  .div-block-2 {
-    display: block;
-    width: 100vw;
-    height: 700px;
-    background-image: url('../images/hero-m.png');
-    background-position: 50% 0%;
-    background-size: cover;
-    background-repeat: no-repeat;
   }
 
   .div-block-3 {
